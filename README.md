@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DevFTales
 - 👀 I’m interested in front-end...
-- 🌱 I’m currently learning html,css,javascript , react.js, node.js
-
+- 🌱 I’m currently learning html, css, javascript , react.js, node.js
+ 
 
 <!---
 DevFTales/DevFTales is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
