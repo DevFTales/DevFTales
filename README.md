@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DevFTales
 - 👀 I’m interested in front-end...
-- 🌱 I’m currently learning html,css,javascript,react.js,node.js
+- 🌱 I’m currently learning html,css,javascript , react.js, node.js
 
 
 <!---
